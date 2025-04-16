@@ -12,4 +12,4 @@ This project was created with the assistance of **Gemini Pro 2.5**, an AI model 
 
 ## License
 
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the license terms.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
