@@ -4,7 +4,7 @@ A browser-based chess game built with HTML, CSS (Tailwind CSS), and JavaScript, 
 
 ## Demo
 
-Play the game live: \[Insert live demo link here, e.g., GitHub Pages URL\]
+Play the game live: [https://chess-by-gemini.vercel.app](https://chess-by-gemini.vercel.app)
 
 ## Development
 
